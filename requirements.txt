@@ -1,0 +1,6 @@
+discord.py[voice]
+discord-ext-voice-recv
+edge-tts
+numpy
+python-dotenv
+sherpa-onnx

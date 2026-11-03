@@ -1,0 +1,11 @@
+.env
+.env.*
+!.env.example
+.venv/
+.venv*/
+__pycache__/
+*.py[cod]
+/sherpa-model.tar.bz2
+/sherpa-onnx-streaming-zipformer-en-2023-06-26/
+/vosk-model-*/
+*back up.py
